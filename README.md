@@ -1,1 +1,473 @@
-# fyro-portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FYRO Studio | Suphal Pramanick</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d0d0d;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+h1 { font-size: 42px; }
+h2 { margin-top: 40px; }
+
+.card {
+    background: #1a1a1a;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background: #111;
+    border: 1px solid #333;
+    color: white;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 12px 20px;
+    background: #00ffcc;
+    border: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HERO -->
+<h1>FYRO Studio 🔥</h1>
+<p>Video Editor | Graphic Designer | Content Creator</p>
+<p>I help brands grow with high-quality videos and visuals.</p>
+
+<!-- SERVICES -->
+<h2>🚀 Services</h2>
+
+<div class="card">
+<h3>🎬 Video Editing</h3>
+<p>YouTube Videos, Reels, Cinematic Edits</p>
+</div>
+
+<div class="card">
+<h3>🎨 Graphic Design</h3>
+<p>Logos, Thumbnails, Branding</p>
+</div>
+
+<!-- PROJECTS -->
+<h2>🏆 Projects</h2>
+
+<div class="card">
+<h3>Reel Editing</h3>
+<p>High-engagement Instagram reel</p>
+<a href="#">View Project</a>
+</div>
+
+<div class="card">
+<h3>YouTube Editing</h3>
+<p>Professional storytelling edit</p>
+<a href="#">View Project</a>
+</div>
+
+<!-- CONTACT FORM -->
+<h2>📞 Contact Me</h2>
+
+<form action="https://formsubmit.co/suphalanto0007@gmail.com" method="POST">
+
+<input type="text" name="name" placeholder="Your Name" required>
+<input type="email" name="email" placeholder="Your Email" required>
+<textarea name="message" rows="5" placeholder="Your Message"></textarea>
+
+<!-- Hidden Fields -->
+<input type="hidden" name="_subject" value="New Client from FYRO Studio 🔥">
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_template" value="table">
+
+<button type="submit">Send Message 🚀</button>
+
+</form>
+
+</div>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FYRO Studio | Suphal Pramanick</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d0d0d;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+h1 { font-size: 42px; }
+h2 { margin-top: 40px; }
+
+.card {
+    background: #1a1a1a;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background: #111;
+    border: 1px solid #333;
+    color: white;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 12px 20px;
+    background: #00ffcc;
+    border: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HERO -->
+<h1>FYRO Studio 🔥</h1>
+<p>Video Editor | Graphic Designer | Content Creator</p>
+<p>I help brands grow with high-quality videos and visuals.</p>
+
+<!-- SERVICES -->
+<h2>🚀 Services</h2>
+
+<div class="card">
+<h3>🎬 Video Editing</h3>
+<p>YouTube Videos, Reels, Cinematic Edits</p>
+</div>
+
+<div class="card">
+<h3>🎨 Graphic Design</h3>
+<p>Logos, Thumbnails, Branding</p>
+</div>
+
+<!-- PROJECTS -->
+<h2>🏆 Projects</h2>
+
+<div class="card">
+<h3>Reel Editing</h3>
+<p>High-engagement Instagram reel</p>
+<a href="#">View Project</a>
+</div>
+
+<div class="card">
+<h3>YouTube Editing</h3>
+<p>Professional storytelling edit</p>
+<a href="#">View Project</a>
+</div>
+
+<!-- CONTACT FORM -->
+<h2>📞 Contact Me</h2>
+
+<form action="https://formsubmit.co/suphalanto0007@gmail.com" method="POST">
+
+<input type="text" name="name" placeholder="Your Name" required>
+<input type="email" name="email" placeholder="Your Email" required>
+<textarea name="message" rows="5" placeholder="Your Message"></textarea>
+
+<!-- Hidden Fields -->
+<input type="hidden" name="_subject" value="New Client from FYRO Studio 🔥">
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_template" value="table">
+
+<button type="submit">Send Message 🚀</button>
+
+</form>
+
+</div>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FYRO Studio | Suphal Pramanick</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d0d0d;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+h1 { font-size: 42px; }
+h2 { margin-top: 40px; }
+
+.card {
+    background: #1a1a1a;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background: #111;
+    border: 1px solid #333;
+    color: white;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 12px 20px;
+    background: #00ffcc;
+    border: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HERO -->
+<h1>FYRO Studio 🔥</h1>
+<p>Video Editor | Graphic Designer | Content Creator</p>
+<p>I help brands grow with high-quality videos and visuals.</p>
+
+<!-- SERVICES -->
+<h2>🚀 Services</h2>
+
+<div class="card">
+<h3>🎬 Video Editing</h3>
+<p>YouTube Videos, Reels, Cinematic Edits</p>
+</div>
+
+<div class="card">
+<h3>🎨 Graphic Design</h3>
+<p>Logos, Thumbnails, Branding</p>
+</div>
+
+<!-- PROJECTS -->
+<h2>🏆 Projects</h2>
+
+<div class="card">
+<h3>Reel Editing</h3>
+<p>High-engagement Instagram reel</p>
+<a href="#">View Project</a>
+</div>
+
+<div class="card">
+<h3>YouTube Editing</h3>
+<p>Professional storytelling edit</p>
+<a href="#">View Project</a>
+</div>
+
+<!-- CONTACT FORM -->
+<h2>📞 Contact Me</h2>
+
+<form action="https://formsubmit.co/suphalanto0007@gmail.com" method="POST">
+
+<input type="text" name="name" placeholder="Your Name" required>
+<input type="email" name="email" placeholder="Your Email" required>
+<textarea name="message" rows="5" placeholder="Your Message"></textarea>
+
+<!-- Hidden Fields -->
+<input type="hidden" name="_subject" value="New Client from FYRO Studio 🔥">
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_template" value="table">
+
+<button type="submit">Send Message 🚀</button>
+
+</form>
+
+</div>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FYRO Studio | Suphal Pramanick</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d0d0d;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+h1 { font-size: 42px; }
+h2 { margin-top: 40px; }
+
+.card {
+    background: #1a1a1a;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background: #111;
+    border: 1px solid #333;
+    color: white;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 12px 20px;
+    background: #00ffcc;
+    border: none;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HERO -->
+<h1>FYRO Studio 🔥</h1>
+<p>Video Editor | Graphic Designer | Content Creator</p>
+<p>I help brands grow with high-quality videos and visuals.</p>
+
+<!-- SERVICES -->
+<h2>🚀 Services</h2>
+
+<div class="card">
+<h3>🎬 Video Editing</h3>
+<p>YouTube Videos, Reels, Cinematic Edits</p>
+</div>
+
+<div class="card">
+<h3>🎨 Graphic Design</h3>
+<p>Logos, Thumbnails, Branding</p>
+</div>
+
+<!-- PROJECTS -->
+<h2>🏆 Projects</h2>
+
+<div class="card">
+<h3>Reel Editing</h3>
+<p>High-engagement Instagram reel</p>
+<a href="#">View Project</a>
+</div>
+
+<div class="card">
+<h3>YouTube Editing</h3>
+<p>Professional storytelling edit</p>
+<a href="#">View Project</a>
+</div>
+
+<!-- CONTACT FORM -->
+<h2>📞 Contact Me</h2>
+
+<form action="https://formsubmit.co/suphalanto0007@gmail.com" method="POST">
+
+<input type="text" name="name" placeholder="Your Name" required>
+<input type="email" name="email" placeholder="Your Email" required>
+<textarea name="message" rows="5" placeholder="Your Message"></textarea>
+
+<!-- Hidden Fields -->
+<input type="hidden" name="_subject" value="New Client from FYRO Studio 🔥">
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_template" value="table">
+
+<button type="submit">Send Message 🚀</button>
+
+</form>
+
+</div>
+
+</body>
+</html>
